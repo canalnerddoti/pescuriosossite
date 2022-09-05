@@ -1,5 +1,9 @@
+<?php
+header("Location: https://www.youtube.com/channel/UCM9gZV948V2DVLLORkqn7Cg?sub_confirmation=1");
+die();
+?>
 <!doctype html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
