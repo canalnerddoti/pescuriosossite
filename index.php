@@ -1,6 +1,9 @@
 <?php
-header("Location: https://www.youtube.com/channel/UCM9gZV948V2DVLLORkqn7Cg?sub_confirmation=1");
+header("Location: https://www.youtube.com/channel/UCM9gZV948V2DVLLORkqn7Cg");
 die();
+
+
+
 ?>
 <!doctype html>
 <html lang="pt-BR">
